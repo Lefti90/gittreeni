@@ -1,6 +1,6 @@
-#GIT-TREENI
+# GIT-TREENI
 
-##Yleistä
+## Yleistä
 
 Tämä repo on Gitin harjoittelua varten. Tehtävässä on käyty lävitse esimerkiksi
 
@@ -8,7 +8,7 @@ Tämä repo on Gitin harjoittelua varten. Tehtävässä on käyty lävitse esime
 * Branchit
 * Konfliktit
 
-##Osoitteet
+## Osoitteet
 
 Repon osoite: https://github.com/lefti90/gittreeni.git
 
