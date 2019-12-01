@@ -1,6 +1,6 @@
 Tämän repositoryn omistaa:
-Ilkka Säkkinen, m2241
-m2241@student.jamk.fi
+* Ilkka Säkkinen, m2241
+* m2241@student.jamk.fi
 En halunnut tehdä uutta gitHub-accounttia
 
 # GIT-TREENI
